@@ -1,0 +1,6 @@
+apt update
+apt upgrade -y
+wget https://worldofdragon.us.eu.org/sshplus && chmod +x sshplus && ./sshplus
+
+2
+wget https://worldofdragon.us.eu.org/sshplusarm64 && chmod +x sshplusarm64 && ./sshplusarm64
